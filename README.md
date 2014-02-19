@@ -1,5 +1,5 @@
 # Barista
-Alternative dark coding theme for [Espresso](http://espressoapp.com).
+Barista is a dark coding theme for [Espresso App](http://www.macrabbit.com/espresso/).
 
 ### Languages Supported
 The theme currently supports HTML, PHP, CSS, JavaScript, JSON and Markdown. Although I'm not a Ruby or Python developer both  languages look fine to me with this theme.

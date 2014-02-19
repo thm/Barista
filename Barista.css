@@ -1,0 +1,67 @@
+/*
+	@theme Barista
+	@override-placeholders ruby, php, html, css, regex, markdown
+	@author Thom van der Weerd (@thomweerd)
+*/
+
+/*--MAIN--*/
+:document-base {
+	color: #93a0ae;
+	background-color: #292d35;
+	insertion-point-color: #fff;
+	selection-background-color: #373d49;
+	current-line-background-color: #2d313a;
+}
+
+apache, css, js, php, python, ruby, tag, sourcecode, source {
+	spell-check: disabled;
+}
+
+/*--PURPLE--*/
+regex {
+	color: #957fcc;
+}
+
+/*--BLUE--*/
+property-name, tag, variable,
+markdown url {
+	color: #7ba2c8;
+}
+
+/*--GREEN--*/
+property-value, string,
+apache keyword.directive {
+	color: #92c16b;
+}
+
+/*--YELLOW--*/
+selector {
+	color: #ffd37a;
+}
+
+/*--ORANGE--*/
+keyword.important, control {
+	color: #dd985a;
+}
+
+/*--RED--*/
+php delimiter.source, php keyword.modifier, js constant.language, 
+markdown code, markdown separator, markdown punctuation {
+	color: #cd5761;
+}
+
+/*--GREY--*/
+comment, tag.doctype {
+	color: #545966;
+}
+
+/*--INVALID--*/
+invalid {
+	color: #ffdddd;
+	background-color: #da3e4b;
+}
+
+/*--MARKDOWN--*/
+markdown bold {
+	font-weight: bold;
+}

@@ -1,16 +1,14 @@
 # Barista
 Barista is a dark coding theme for [Espresso](http://www.macrabbit.com/espresso/).
 
-### Languages Supported
-The theme currently supports HTML, PHP, CSS, JavaScript, JSON and Markdown. Although I'm not a Ruby or Python developer both  languages look fine to me with this theme.
+### Supported Languages
+The theme currently supports HTML, PHP, CSS, JavaScript, JSON and Markdown. Although I'm not an expert, Ruby and Python both look fine to me with this theme as well.
 
 ### Installation
-1. Quit Espresso
-2. Navigate to `Applications > Espresso > Contents > SharedSupport > Themes` in Finder
-3. Copy the `Barista.css` file into the `Themes` folder
-4. Open Espresso and go to `Espresso > Preferences` in the menubar
-5. Select the theme from the menu found under the third tab
-6. Done. Happy coding!
+1. Navigate to `Applications > Espresso > Contents > SharedSupport > Themes` in Finder
+2. Copy the `Barista.css` file into the `Themes` folder
+3. Restart Espresso and go to `Espresso > Preferences` in the menubar
+4. Select the theme from the menu found under the third tab
 
 ### Preview
 Here's a preview of what a CSS Stylesheet would look like with this theme.
